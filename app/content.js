@@ -1,4 +1,4 @@
 export const mainHero = {
-    h1: 'Plaats een SEO vriendelijke Hero tekst hier',
-    paragraaf: 'Plaats een SEO vriendelijke text die de H1 text ondersteunt hier',
+    h1: 'Betrouwbare en Snelle Taxi Service in Gent',
+    paragraaf: 'Ontdek onze comfortabele, veilige en punctuele taxidiensten voor al uw vervoersbehoeften in en rond Gent. Boek eenvoudig online of bel ons nu!',
 };
